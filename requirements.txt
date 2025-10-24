@@ -1,0 +1,6 @@
+requests
+urllib3
+coinbase-advanced-py
+python-dotenv
+pytz
+num2words
