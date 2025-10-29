@@ -1,2 +1,2 @@
 # Project-Green
-My first python project from the bottom up, this was actually created last year.  Just builds a data base for crypto assets using CoinBase API
+My first python project from the bottom up and was actually created last year (I had to move the repo).  The application uilds a database for crypto assets using CoinBase API. Just a heads up, before trying to run the app, that the coinbase API and/or library is out of date, so it no longer works. I no longer have a coinbase account either, so I cannot update it. Given this was my first project, the code orgnization is also not the best, but it does demonstrate my knowledge of the language. 
